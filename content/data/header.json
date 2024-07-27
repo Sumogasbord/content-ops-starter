@@ -89,7 +89,7 @@
         "styles": {
             "self": {
                 "borderRadius": "medium",
-                "borderWidth": 8
+                "borderWidth": 0
             }
         }
     }
