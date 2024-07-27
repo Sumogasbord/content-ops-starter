@@ -746,7 +746,8 @@ sections:
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  socialImage: >-
+    http://res.cloudinary.com/dikcsjqfo/image/upload/v1722087548/RooLone/Thumb/logo_main.jpg
   type: Seo
 type: PageLayout
 isDraft: false
