@@ -78,7 +78,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "from ♨️ Beppu\n\n©[Plainbox](https://plainbox.net/) MMXXIII\nPowered by [Netlify Create](https://www.netlify.com/platform/create/)\n",
+    "copyrightText": "from ♨️ Beppu / ©[Plainbox](https://plainbox.net/) MMXXIII / Powered by [Netlify Create](https://www.netlify.com/platform/create/)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
