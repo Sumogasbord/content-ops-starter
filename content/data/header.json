@@ -61,7 +61,7 @@
     ],
     "secondaryLinks": [],
     "variant": "logo-centered-primary-nav-centered",
-    "colors": "bg-neutral-fg-dark",
+    "colors": "bg-light-fg-dark",
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
