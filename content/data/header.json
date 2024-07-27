@@ -65,7 +65,7 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/nomal_NoBG_logo.svg",
+        "url": "http://res.cloudinary.com/dikcsjqfo/image/upload/v1722085875/nomal_NoBG_logo_tboajo.svg",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
