@@ -65,7 +65,7 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/abstract-feature1.svg",
+        "url": "/images/takeda-logo.svg",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
