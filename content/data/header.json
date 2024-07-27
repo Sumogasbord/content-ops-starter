@@ -65,7 +65,7 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/nomal_Full_Logo.png",
+        "url": "/images/abstract-feature1.svg",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
