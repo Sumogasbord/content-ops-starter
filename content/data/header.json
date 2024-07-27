@@ -60,12 +60,12 @@
         }
     ],
     "secondaryLinks": [],
-    "variant": "logo-centered-primary-nav-centered",
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-light-fg-dark",
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/nomal_NoBG_logo.svg",
+        "url": "https://res.cloudinary.com/dikcsjqfo/image/upload/v1722087400/roolone_nomal_full-logo_mini_erggkw.svg",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
