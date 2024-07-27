@@ -1,16 +1,4 @@
 {
-    "logo": {
-        "url": "/images/nomal_Full_Logo.png",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
             "label": "Pricing",
