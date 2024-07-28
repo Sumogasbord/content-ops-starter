@@ -8,10 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      旅人サークルの "Plainbox" のサークル主兼技術担当のSumögåsbordの作業部屋というか実験室のような場所です。
     actions:
       - label: Get started
         altText: ''
