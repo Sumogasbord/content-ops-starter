@@ -283,6 +283,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/avatar4.svg
   - type: GenericSection
     title:
       type: TitleBlock
