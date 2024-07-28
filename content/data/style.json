@@ -19,7 +19,7 @@
         "weight": "bold",
         "decoration": "none",
         "case": "none",
-        "letterSpacing": "wider",
+        "letterSpacing": "wide",
         "type": "ThemeStyleHeading"
     },
     "h3": {
