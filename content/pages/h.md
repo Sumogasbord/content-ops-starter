@@ -15,7 +15,7 @@ sections:
       "RooLone Magazine" は旅人サークル "Plainbox" による、さまよう旅人へ向けたウェブマガジンです。
       旅先の思い出や備忘録をローペースでありながも更新していく予定です。
     actions: []
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         flexDirection: col
