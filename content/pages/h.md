@@ -262,13 +262,6 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
     colors: bg-light-fg-dark
     styles:
       self:
