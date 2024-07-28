@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: さまよう旅人のためのウェブサイト
+      text: さまよう旅人のためのウェブサイt
       color: text-dark
       type: TitleBlock
     subtitle: RooLone Webmag
