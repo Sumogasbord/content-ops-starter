@@ -50,7 +50,7 @@ sections:
     styles:
       self:
         flexDirection: row
-        justifyContent: center
+        justifyContent: flex-start
       subtitle:
         textAlign: left
   - type: GenericSection
