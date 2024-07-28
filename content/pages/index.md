@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ようこそ Plainboxの実験場へ
+      text: 旅人による
       color: text-dark
       type: TitleBlock
     subtitle: ''
