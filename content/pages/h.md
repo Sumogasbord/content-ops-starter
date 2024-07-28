@@ -31,16 +31,6 @@ sections:
       opacity: 100
       url: >-
         https://res.cloudinary.com/dikcsjqfo/image/upload/v1722087548/RooLone/Thumb/logo_sub.jpg
-  - type: DividerSection
-    title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
   - type: GenericSection
     title:
       type: TitleBlock
