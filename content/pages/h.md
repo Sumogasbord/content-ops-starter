@@ -30,7 +30,7 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 50
       url: >-
-        https://res.cloudinary.com/dikcsjqfo/image/upload/v1722084306/cld-sample-2.jpg
+        https://res.cloudinary.com/dikcsjqfo/image/upload/v1722087548/RooLone/Thumb/logo_sub.jpg
   - type: FeaturedPostsSection
     posts:
       - content/pages/blog/case-study-1.md
