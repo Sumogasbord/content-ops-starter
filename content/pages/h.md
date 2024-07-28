@@ -28,7 +28,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 22
       url: >-
         https://res.cloudinary.com/dikcsjqfo/image/upload/v1722084306/cld-sample-2.jpg
   - type: FeaturedPostsSection
