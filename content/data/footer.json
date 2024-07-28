@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Webbtidning för vandrare.\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -60,17 +60,8 @@
         "type": "FooterLinksGroup"
     },
     "socialLinks": [],
-    "legalLinks": [
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
-    "copyrightText": "from ♨️ Beppu / ©[Plainbox](https://plainbox.net/) MMXXIII / Powered by [Netlify Create](https://www.netlify.com/platform/create/)\n",
+    "legalLinks": [],
+    "copyrightText": "from ♨️ Beppu / ©[Plainbox](https://plainbox.net/) MMXXIII\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
