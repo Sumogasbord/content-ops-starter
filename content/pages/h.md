@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: House
+title: Home
 sections:
   - type: GenericSection
     title:
