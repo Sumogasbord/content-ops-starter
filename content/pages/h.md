@@ -230,7 +230,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Grow your business 10x faster
+      text: Welcome to RooLone Magazine
       color: text-dark
       styles:
         self:
