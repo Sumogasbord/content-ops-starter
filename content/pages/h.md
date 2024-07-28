@@ -29,6 +29,8 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: >-
+        https://res.cloudinary.com/dikcsjqfo/image/upload/v1722084306/cld-sample-2.jpg
   - type: FeaturedPostsSection
     posts:
       - content/pages/blog/case-study-1.md
