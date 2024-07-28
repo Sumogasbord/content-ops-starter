@@ -31,7 +31,8 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: >-
+        http://res.cloudinary.com/dikcsjqfo/image/upload/v1722087400/roolone_nomal_full-logo_mini_erggkw.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
