@@ -236,11 +236,9 @@ sections:
         self:
           textAlign: center
     subtitle: ようこそ、さまよう旅人のためのウェブマガジンへ。
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      "RooLone Magazine" は旅人サークル "Plainbox" による、さまよう旅人へ向けたウェブマガジンです。
+      旅先の思い出や備忘録をローペースでありながも更新していく予定です。
     actions: []
     media:
       type: VideoBlock
