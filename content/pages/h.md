@@ -62,7 +62,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: RooLone Magazineで展開している記事シリーズ
     items:
       - type: FeaturedItem
         title: Feature Item One
