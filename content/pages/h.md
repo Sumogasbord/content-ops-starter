@@ -5,6 +5,26 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: Welcome to RooLone Magazine
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ようこそ、さまよう旅人のためのウェブマガジンへ。
+    text: |
+      "RooLone Magazine" は旅人サークル "Plainbox" による、さまよう旅人へ向けたウェブマガジンです。
+      旅先の思い出や備忘録をローペースでありながも更新していく予定です。
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: Unblock your team boost your time to production
       color: text-dark
     subtitle: Subtitle goes here
@@ -227,26 +247,6 @@ sections:
           - pl-7
           - pb-7
           - pr-7
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Welcome to RooLone Magazine
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ようこそ、さまよう旅人のためのウェブマガジンへ。
-    text: |
-      "RooLone Magazine" は旅人サークル "Plainbox" による、さまよう旅人へ向けたウェブマガジンです。
-      旅先の思い出や備忘録をローペースでありながも更新していく予定です。
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
