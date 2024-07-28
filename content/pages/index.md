@@ -525,7 +525,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /h
+slug: /
 seo:
   type: Seo
   metaTitle: Home - Demo site
