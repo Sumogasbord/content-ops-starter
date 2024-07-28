@@ -7,7 +7,7 @@ sections:
       text: さまよう旅人のためのウェブサイト
       color: text-dark
       type: TitleBlock
-    subtitle: RooLone Webmag
+    subtitle: RooLone Magazine
     text: |
       旅人サークルの "Plainbox" のサークル主兼技術担当のSumögåsbordの作業部屋というか実験室のような場所です。
     actions:
