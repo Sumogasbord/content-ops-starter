@@ -9,7 +9,8 @@ sections:
       type: TitleBlock
     subtitle: RooLone Magazine
     text: |
-      旅人サークルの "Plainbox" のサークル主兼技術担当のSumögåsbordの作業部屋というか実験室のような場所です。
+      旅人サークルの "Plainbox" のウェブマガジン「RooLone Magazine」です。
+      さまよう旅人によるさまよう旅人に向けた情報をローペースながらも発信する予定です。
     actions:
       - label: Get started
         altText: ''
