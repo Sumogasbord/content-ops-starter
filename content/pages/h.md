@@ -12,7 +12,7 @@ sections:
           textAlign: center
     subtitle: ようこそ、さまよう旅人のためのウェブマガジンへ。
     text: |
-      "RooLone Magazine" は旅人サークル "Plainbox" による、さまよう旅人へ向けたウェブマガジンです。
+      **"RooLone Magazine"** は旅人サークル "Plainbox" による、さまよう旅人へ向けたウェブマガジンです。
       旅先の思い出や備忘録をローペースでありながも更新していく予定です。
     actions: []
     colors: bg-neutral-fg-dark
