@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 旅人による
+      text: 旅人による旅人のためのウェブサイト
       color: text-dark
       type: TitleBlock
     subtitle: ''
