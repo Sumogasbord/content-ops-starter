@@ -32,7 +32,7 @@ sections:
         type: Link
     media:
       url: >-
-        https://res.cloudinary.com/dikcsjqfo/image/upload/v1722154589/nomal_Full_Logo_v0uaqy.svg
+        https://res.cloudinary.com/dikcsjqfo/image/upload/v1722155158/roolone_nomal_full-logo_zvnuvx.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
