@@ -28,7 +28,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 50
+      opacity: 0
       url: >-
         https://res.cloudinary.com/dikcsjqfo/image/upload/v1722087548/RooLone/Thumb/logo_sub.jpg
   - type: FeaturedPostsSection
