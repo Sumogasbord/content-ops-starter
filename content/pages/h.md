@@ -11,9 +11,11 @@ sections:
         self:
           textAlign: center
     subtitle: ようこそ、さまよう旅人のためのウェブマガジンへ。
-    text: |
-      "RooLone Magazine" は旅人サークル "Plainbox" による、**さまよう旅人へ向けたウェブマガジン**です。
-      旅先の思い出や備忘録をローペースでありながも更新していく予定です。
+    text: >
+      \<div style="text-align: center">"RooLone Magazine" は旅人サークル "Plainbox"
+      による、**さまよう旅人へ向けたウェブマガジン**です。
+
+      旅先の思い出や備忘録をローペースでありながも更新していく予定です。\</div>
     actions: []
     colors: bg-neutral-fg-dark
     styles:
