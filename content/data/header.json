@@ -2,7 +2,7 @@
     "primaryLinks": [
         {
             "label": "記事一覧",
-            "url": "/pricing",
+            "url": "/contents",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
